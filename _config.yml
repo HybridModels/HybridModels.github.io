@@ -1,9 +1,9 @@
-id: 66
+id: 53
 user: eq19
-span: span-47
+span: span-34
 title: eQuantum
-repository: JunctionTerms/JunctionTerms.github.io
-action: HybridModels/ta-lib/actions/runs/14660079705
+repository: HybridModels/HybridModels.github.io
+action: GlobalZones/templates/actions/runs/14966707149
 description: ₠Quantum Project
 
 #debug:
@@ -47,6 +47,6 @@ plugins:
   - jekyll-optional-front-matter
 
 track:
-  spin: [5, 0]
-  pinned: [maps, feed, lexer, parser, syntax, grammar, flakes, jsonix, lanyon, wiki, sitemap, wikitemplate]
+  spin: [4, 0]
+  pinned: [maps, feed, lexer, parser, syntax, grammar, falcon, webpack, wikibox, transparency, flavio, ta-lib]
   organization: [Chetabahana, FeedMapping, GlobalZones, HybridModels, JunctionTerms, KernelPatterns, MappingSystem, NeuralSystem, ObjectModules, VirtualNetworks, WeakNegative, WeakPositive, ZeroWeak]
